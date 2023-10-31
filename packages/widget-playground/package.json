@@ -1,6 +1,6 @@
 {
-  "name": "@lifi/widget-playground",
-  "version": "1.0.151",
+  "name": "@soulswap/widget-playground",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "analyze": "source-map-explorer 'dist/assets/*.js' --no-border-checks",
@@ -21,12 +21,12 @@
   "publishConfig": {
     "access": "public"
   },
-  "author": "Eugene Chybisov <eugene@li.finance>",
+  "author": "Buns Enchantress <buns@soulswap.finance>",
   "dependencies": {
     "@ethersproject/providers": "^5.7.2",
     "@lifi/sdk": "^2.4.3",
     "@lifi/wallet-management": "^2.4.1",
-    "@lifi/widget": "^2.8.0",
+    "@soulswap/widget": "^1.0.0",
     "@mui/icons-material": "^5.14.14",
     "@mui/lab": "^5.0.0-alpha.149",
     "@mui/material": "^5.14.14",
